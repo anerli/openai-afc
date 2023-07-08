@@ -1,0 +1,2 @@
+class GPTSchemaDeviation(Exception):
+    pass
